@@ -3,9 +3,11 @@
 
 ## Task
 TODO - What is the problem? And where is the challenge?
+I had difficulties understandind the Levenshtein concept
 
 ## Description
 TODO - How have you solved the problem?
+Idid some google research and i finally got it
 
 ## Installation
 TODO - How to install your project? npm install? make? make re?
